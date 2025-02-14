@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ### Data Preparation / 数据准备
 To process the graphs dataset, make sure you prepare necessary data and settle them in "train" with following name rules: "X(nums)_Categorys.png/jpg/..."
 
-要处理图像数据，请确保必要的数据被保存在“train”文件夹内且内部文件命名为："X(序号)_种类.png/jpg/..."
+要处理图像数据，请确保必要的数据被保存在用户自行创建的“train”文件夹内且内部文件命名为："X(序号)_种类.png/jpg/..."
 
 In order to create dataset, you can use codes in:
 
